@@ -25,3 +25,7 @@ def index():
   - @app.get("/blog/unpublished")
   - @app.get("/blog/{id}"
 
+**Swagger:** http://127.0.0.1:8000/docs
+
+
+
