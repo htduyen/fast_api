@@ -107,3 +107,8 @@
         ssl_certfile="./localhost+2.pem"
     )
 
+# SQLAlchemy
+
+    1. Without orm_mode, if you returned a SQLAlchemy model from your path operation, it wouldn't include the relationship data.
+
+    2. 
